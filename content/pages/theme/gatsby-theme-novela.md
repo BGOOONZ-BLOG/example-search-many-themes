@@ -13,4 +13,4 @@ disabled: true
 disabled_reason: Github repo not found
 ---
 
-Welcome to Novela, the simplest way to start publishing with Gatsby. 
+Welcome to Novela, the simplest way to start publishing with Gatsby.

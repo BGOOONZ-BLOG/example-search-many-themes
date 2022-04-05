@@ -18,6 +18,6 @@ stale: false
 
 ## Features
 
-* Use github page is backyard of your website  
-* Domain from github page will convert to your website, if it too long you will short it with tool short link in internet
-* Easy to setup
+- Use github page is backyard of your website
+- Domain from github page will convert to your website, if it too long you will short it with tool short link in internet
+- Easy to setup

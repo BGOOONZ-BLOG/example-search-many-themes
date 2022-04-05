@@ -29,4 +29,4 @@ You can use this for booking based event marketplaces. And also commenting out t
 - SEO Packed
 - One click deployment for Vercel and Netlify
 - Due to [Tradly JS sdk](https://www.npmjs.com/package/tradly) used, design are properly componentized.
-- Production Ready 
+- Production Ready

@@ -16,15 +16,15 @@ stale: false
 
 ## Features
 
-* Clean and responsive design
-* Multilingual
-* Built-in content search via Algolia SAAS
-* Google Analytics support
-* Comments integration via Commento, Disqus, or Utterances
-* Table of contents(TOC) and series taxonomy
-* Automatic image resizing
-* Support for video and audio content
-* Configurable GDPR consent
-* Customizable 404 page
-* Support for favicons
-* Cookie consent banner
+- Clean and responsive design
+- Multilingual
+- Built-in content search via Algolia SAAS
+- Google Analytics support
+- Comments integration via Commento, Disqus, or Utterances
+- Table of contents(TOC) and series taxonomy
+- Automatic image resizing
+- Support for video and audio content
+- Configurable GDPR consent
+- Customizable 404 page
+- Support for favicons
+- Cookie consent banner

@@ -13,7 +13,6 @@ Individual themes can be then added & edited within the Stackbit UI, and are ind
 
 There are currently about ~1,000 themes, and each has its own page. To keep build times short, we're not actually generating all pages at build time. Rather, [we use Next's dynamic routes](./src/pages/theme/%5Bid%5D.js) + the `fallback` parameter to instruct Next to generate pages on demand. Meaning, once per page (after each deployment) only.
 
-
 ## How to run
 
 ### Running the site locally
@@ -29,6 +28,7 @@ If you don't have an existing Algolia account, create one (it's free).
 ### Visual editing in Stackbit
 
 To edit the site in the Stackbit UI (a.k.a. [local dev](https://docs.stackbit.com/how-to-guides/local-development/)):
+
 1. Install our CLI (if you haven't already): `npm i -g @stackbit\cli`.
 1. Run `stackbit dev`.
 1. Click the shown URL.

@@ -27,12 +27,12 @@ You have many new inbuild features like search, sitemap, custom 404 page, contac
 
 ## Features
 
-  * Customisable design attributes
-  * Customisable global data and navigation
-  * Tags and tag archives
-  * Dark Theme Pre-enabled
-  * SEO ready
-  * GIF preloader
-  * Netlify Form pre-enabled
-  * One Command netlify deploy
-  * And, Much more to come ....
+- Customisable design attributes
+- Customisable global data and navigation
+- Tags and tag archives
+- Dark Theme Pre-enabled
+- SEO ready
+- GIF preloader
+- Netlify Form pre-enabled
+- One Command netlify deploy
+- And, Much more to come ....

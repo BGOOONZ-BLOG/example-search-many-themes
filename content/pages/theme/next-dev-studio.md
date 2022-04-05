@@ -22,7 +22,7 @@ Two years ago I built my studio [website](https://github.com/lwz7512/one-click-h
 
 ## Features
 
-* No code website
-* Define website in Markdown content
-* Easy style customization
-* Minimum CSS inclusion with purgecss
+- No code website
+- Define website in Markdown content
+- Easy style customization
+- Minimum CSS inclusion with purgecss

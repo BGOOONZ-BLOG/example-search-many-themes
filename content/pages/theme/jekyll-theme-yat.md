@@ -17,7 +17,6 @@ stale: false
 
 🎨 Yet another theme for elegant writers with modern flat style.
 
-
 Hey, nice to meet you, you found this [Jekyll][jekyll] theme. Here the yet
 another theme is a modern theme, and it's quiet clear, clean and neat for
 writers and posts. It always helps us focus on the **content** and the
@@ -44,6 +43,7 @@ For more info checkout github repository [jeffreytse/jekyll-theme-yat][yat-git-r
 Also, visit the live [demo][yat-live-demo] site for the theme.
 
 <!-- External links -->
+
 [jekyll]: https://jekyllrb.com/
 [yat-git-repo]: https://github.com/jeffreytse/jekyll-theme-yat/
 [yat-live-demo]: https://jeffreytse.github.io/jekyll-theme-yat/

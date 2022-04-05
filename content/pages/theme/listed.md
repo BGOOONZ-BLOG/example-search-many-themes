@@ -31,4 +31,4 @@ Listed is a minimalistic Hugo blogging and portfolio theme.
 - Atom & Json feeds
 - Sass
 - Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast  
+- Ultra fast

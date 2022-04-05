@@ -17,6 +17,7 @@ stale: true
 🥁 A really basic theme for Jekyll, using the official Jekyll theme implementation.
 
 ## Contents
+
 - [Installation](#installation)
 - [Customising](#customising)
 - [Site settings](#site-settings)

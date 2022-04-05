@@ -23,19 +23,19 @@ Clarity is a personal blogging theme for Hugo written from scratch with technica
 
 ## Features
 
-* Blog with tagging and category options
-* Deeplinks
-* Native Image Lazy Loading
-* Customizable (see config)
-* Dark Mode (with UI controls for user preference setting)
-* Toggleable table of contents
-* Flexible image configuration
-* Logo alignment
-* Mobile support with configurable menu alignment
-* Syntax Highlighting
-* Rich code block functions including:
-    * Copy to clipboard
-    * Toggle line wrap (dynamic)
-    * Toggle line numbers
-    * Language label
-    * Toggle block expansion/contraction (dynamic)
+- Blog with tagging and category options
+- Deeplinks
+- Native Image Lazy Loading
+- Customizable (see config)
+- Dark Mode (with UI controls for user preference setting)
+- Toggleable table of contents
+- Flexible image configuration
+- Logo alignment
+- Mobile support with configurable menu alignment
+- Syntax Highlighting
+- Rich code block functions including:
+  - Copy to clipboard
+  - Toggle line wrap (dynamic)
+  - Toggle line numbers
+  - Language label
+  - Toggle block expansion/contraction (dynamic)

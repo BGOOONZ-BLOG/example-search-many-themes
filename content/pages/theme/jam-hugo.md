@@ -19,7 +19,7 @@ Jam is a minimal personal blog and portfolio theme powered by Hugo.
 
 ## Features
 
-* Minimalistic, clean and simple design  
-* Responsive design 
-* Inline CSS  
-* Seo optimized
+- Minimalistic, clean and simple design
+- Responsive design
+- Inline CSS
+- Seo optimized

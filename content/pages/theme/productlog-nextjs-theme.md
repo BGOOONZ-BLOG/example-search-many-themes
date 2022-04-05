@@ -1,6 +1,6 @@
 ---
 layout: JamstackTheme
-title: "NextJS-based changelog theme for your product"
+title: 'NextJS-based changelog theme for your product'
 github: https://github.com/apvarun/productlog-nextjs-theme
 demo: https://productlog-theme.vercel.app/
 author: Varun A P

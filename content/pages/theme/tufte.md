@@ -11,6 +11,7 @@ stale: false
 ---
 
 # Tufte Hugo Theme
+
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 
 Hugo-Tufte is a minimalist blog-like theme for the
@@ -22,22 +23,23 @@ By utilizing copious partial templates the theme is largely customizable.
 
 ## State of Project
 
-This is a fork of the original [hugo-tufte](https://github.com/shawnohare/hugo-tufte). 
+This is a fork of the original [hugo-tufte](https://github.com/shawnohare/hugo-tufte).
 
 ## Features
 
 ### Math
 
-[Katex](https://katex.org/) renders LaTeX written inside of markdown files.  LaTeX can be
-written more or less as normal.  Some examples:
+[Katex](https://katex.org/) renders LaTeX written inside of markdown files. LaTeX can be
+written more or less as normal. Some examples:
 
 - This `$ \frac{1}{2} $` will be rendered inline.
 - A simple displayed equation: `$$f(x, y) := e^{x^2 - y^2}.$$`
 
 There currently seems to be some weirdness with other environments,
-such as the `aligned` environment (`align*` is not supported by katex).  These environments will render provided
-they are wrapped in `<p>` tags and blank lines.  The snippet below should
+such as the `aligned` environment (`align*` is not supported by katex). These environments will render provided
+they are wrapped in `<p>` tags and blank lines. The snippet below should
 render correctly.
+
 ```
 Let $G$ be a finite group with exponent $2$.  Then every element is
 an involution, hence for any $x$, $y$ in $G$ we have:
@@ -65,13 +67,13 @@ The site specific parameters that this theme recognizes are:
 
 ### Page Parameters
 
-- `hideDate` boolean: if true, do not display a page date.  When `meta` is set to
+- `hideDate` boolean: if true, do not display a page date. When `meta` is set to
   true, `hideDate` takes greater precedence.
 - `hideReadTime` boolean: if true, do not display the page's reading time
-  estimate.  When `meta` is set to true, `hideReadTime` takes greater precedence.
+  estimate. When `meta` is set to true, `hideReadTime` takes greater precedence.
 - `math` boolean: if true, try to render the page's LaTeX code using MatheJax.
 - `meta` boolean: if true, display page metadata such as author, date, categories provided
-  these page parameters exist and are not overridden.  Content in the `/post` directory,
+  these page parameters exist and are not overridden. Content in the `/post` directory,
   (i.e., pages of type "post") ignore this parameter.
 - `toc` boolean: if true, display the table of contents for the page.
 
@@ -89,4 +91,3 @@ support all the features present in the
 - `sidenote`
 
 See the repo for more
-

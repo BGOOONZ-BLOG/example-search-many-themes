@@ -23,9 +23,9 @@ stale: false
 - No webpack, nodejs and other dependencies are required to edit the theme.
 - Uses Hugo's asset generator with pipelining, fingerprinting, bundling and minification by default.
 - 3 Modes:
-    - [Regular Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#regular-mode-default-mode)
-    - [Home-Info Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode)
-    - [Profile Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode)
+  - [Regular Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#regular-mode-default-mode)
+  - [Home-Info Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode)
+  - [Profile Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode)
 - Table of Content Generation (newer implementation).
 - Archive of posts.
 - Social Icons (home-info and profile-mode)

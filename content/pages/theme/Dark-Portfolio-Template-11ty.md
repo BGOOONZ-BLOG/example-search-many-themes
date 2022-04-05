@@ -20,9 +20,9 @@ This has been "ported" to run on Eleventy, and stays true to the original as muc
 Uses the original W3.css with no modifications!
 
 ## Eleventy specific additions
+
 - The last 6 posts with the "photo" tag will be used in the front page portfolio section.
 - The starter blog boilerplate has been left in.
 - The Archive link was left in
 - A "files" folder has been added with a fake resume for use with the "download resume" button
-- Inside _data/faNav.json is a list of the Navigation keys and their corresponding FontAwesome icon class
-
+- Inside \_data/faNav.json is a list of the Navigation keys and their corresponding FontAwesome icon class

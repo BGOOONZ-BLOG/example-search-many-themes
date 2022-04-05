@@ -22,7 +22,7 @@ This theme is a lightweight and clean starter kit with a touch of pastel colors.
 
 ## Features
 
-* Blog page pagination.  
-* Search blogposts using lunrjs.
-* Using sass.
-* Free to use and modified.
+- Blog page pagination.
+- Search blogposts using lunrjs.
+- Using sass.
+- Free to use and modified.

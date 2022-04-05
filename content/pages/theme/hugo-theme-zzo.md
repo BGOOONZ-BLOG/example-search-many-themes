@@ -25,18 +25,18 @@ Zzo is a blog theme for Hugo. It includes almost all features that a blog theme 
 
 ## Features
 
-* Multiple Skins(dark, light, solarized, ...)
-* Mobile menu
-* Search
-* Search Engine Optimization(SEO)
-* Multilingual (i18n)
-* Responsive design
-* Customizable UI
-* RSS
-* Gallery
-* Fast code highlighting
-* Talks page
-* Showcase page
-* Publication Page
-* Resume Page
-* Presentation Page
+- Multiple Skins(dark, light, solarized, ...)
+- Mobile menu
+- Search
+- Search Engine Optimization(SEO)
+- Multilingual (i18n)
+- Responsive design
+- Customizable UI
+- RSS
+- Gallery
+- Fast code highlighting
+- Talks page
+- Showcase page
+- Publication Page
+- Resume Page
+- Presentation Page

@@ -20,6 +20,6 @@ Website is for a fictional company selling coffee, coffee accessories, and ownin
 
 ## Features
 
-* Content loaded from Kentico Kontent
-* Google maps widget
-* Plain CSS Styling
+- Content loaded from Kentico Kontent
+- Google maps widget
+- Plain CSS Styling

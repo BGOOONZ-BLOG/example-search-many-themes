@@ -23,6 +23,6 @@ This theme is a lightweight framework for personal blogs and portfolios. It's a 
 
 ## Features
 
-* Everything is customizable - thanks to generic structure of this theme, almost every part of it can be manipulated
-* Two main categories are supported
-* Included styles for code snipped display
+- Everything is customizable - thanks to generic structure of this theme, almost every part of it can be manipulated
+- Two main categories are supported
+- Included styles for code snipped display

@@ -20,15 +20,15 @@ stale: false
 
 Bulma clean theme works with GitHub Pages and has a wide range of page layout available to use.
 
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Blog
-* Post
-* Page With Sidebar
-* Page Without Sidebar
-* Page With Menubar
-* Page With Tabs
-* Page Without Footer
-* Page Without Hero
-* Page With Contents
+- Landing Page With Callouts
+- Sponsors Page
+- Image Gallery
+- Blog
+- Post
+- Page With Sidebar
+- Page Without Sidebar
+- Page With Menubar
+- Page With Tabs
+- Page Without Footer
+- Page Without Hero
+- Page With Contents

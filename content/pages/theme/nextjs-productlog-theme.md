@@ -20,7 +20,6 @@ ProductLog is a NextJS theme for hosting your product's changelog.
 
 [Preview the theme](https://productlog-theme.vercel.app/) to see what it looks like, or checkout how to use it today.
 
-
 ## Features
 
 - SEO friendly

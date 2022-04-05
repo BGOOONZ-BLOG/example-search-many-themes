@@ -34,6 +34,7 @@ For more info checkout github repository [manid2/lone-wolf-theme][lwt_git_repo].
 Also visit the live [demo][lwt_live_demo] site for the theme.
 
 <!-- External links -->
+
 [jekyll]: https://jekyllrb.com/
 [bs4]: https://getbootstrap.com/
 [bootswatch]: https://bootswatch.com/

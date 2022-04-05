@@ -25,7 +25,7 @@ Check out the [Live Demo](https://h2o-ac.pages.dev/), deployed and hosted on [Cl
 
 ## Features
 
-* Academic Home Page, Archive Page and System Log Pages
-* A beatiful SNS icon set
-* More practical supports in the post
-* Beautiful and adaptive pages (Thanks for H2O)
+- Academic Home Page, Archive Page and System Log Pages
+- A beatiful SNS icon set
+- More practical supports in the post
+- Beautiful and adaptive pages (Thanks for H2O)

@@ -15,18 +15,18 @@ stale: false
 
 ## Features
 
-* Dark mode
-* Multilingual
-* RTL support
-* Portfolio
-* Post Thumbnails
-* Publish posts as part of a series
-* 100⁄100 Google Lighthouse score
-* Support for Google Analytics
-* Comments powered by Disqus, Commento or Utteranc.es
-* Support for SimpleAnalytics
-* Katex support
-* Formspree Contact Form
-* Twitter Cards support
-* Open Graph support
-* Custom CSS and JavaScript
+- Dark mode
+- Multilingual
+- RTL support
+- Portfolio
+- Post Thumbnails
+- Publish posts as part of a series
+- 100⁄100 Google Lighthouse score
+- Support for Google Analytics
+- Comments powered by Disqus, Commento or Utteranc.es
+- Support for SimpleAnalytics
+- Katex support
+- Formspree Contact Form
+- Twitter Cards support
+- Open Graph support
+- Custom CSS and JavaScript

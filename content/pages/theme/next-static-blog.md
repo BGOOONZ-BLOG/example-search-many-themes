@@ -25,6 +25,7 @@ disabled_reason: ''
 
 A statically generated blog built on the React framework Next.js. Uses Tailwind CSS on the frontend, powered by the Cosmic headless CMS.
 
-# Includes: 
+# Includes:
+
 Content preview functionality
 Automatic image optimizations

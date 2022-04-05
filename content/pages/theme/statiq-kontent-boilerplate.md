@@ -19,9 +19,9 @@ Boilerplate utilizing Statiq and Kentico Kontent to provide a starting point in 
 
 ## Features
 
-* Content from Kontent headless CMS
-* Model Generator for generating strongly-typed models from Kontent model
-* Sass initial styles for easier style including reset.css
-* Razor template engine setup with simple layout
-* Automatic Sitemap generation
-* RSS/Atom support out of the box
+- Content from Kontent headless CMS
+- Model Generator for generating strongly-typed models from Kontent model
+- Sass initial styles for easier style including reset.css
+- Razor template engine setup with simple layout
+- Automatic Sitemap generation
+- RSS/Atom support out of the box

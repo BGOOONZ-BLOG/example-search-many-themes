@@ -21,9 +21,9 @@ A Minimal & Beautiful GatsbyJS Personal Blog Starter With Nice Glassmorphism UI
 
 ## Features
 
-* Fully responsive SEO metadata and Open Graph tags
-* Maximize lighthouse score
-* Contact form with Netlify Form
-* Edit Content with Netlify CMS
-* Easy to deploy 
-* Syntax highlighting via PrismJS
+- Fully responsive SEO metadata and Open Graph tags
+- Maximize lighthouse score
+- Contact form with Netlify Form
+- Edit Content with Netlify CMS
+- Easy to deploy
+- Syntax highlighting via PrismJS

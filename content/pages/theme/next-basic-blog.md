@@ -22,7 +22,7 @@ This theme is a lightweight starter kit. It also gives you a well organised star
 
 ## Features
 
-* dark/light theme support
-* SEO metadata and Open Graph tags
-* Easy to add posts/blogs
-* Easy to customize
+- dark/light theme support
+- SEO metadata and Open Graph tags
+- Easy to add posts/blogs
+- Easy to customize

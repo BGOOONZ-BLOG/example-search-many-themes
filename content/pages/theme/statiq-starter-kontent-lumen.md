@@ -22,11 +22,11 @@ Lumen is a minimal, lightweight, and mobile-first starter for creating blogs usi
 
 ## Features
 
-* Content from Kontent headless CMS.
-* Beautiful typography inspired by matejlatin/Gutenberg.
-* Mobile-First approach in development.
-* Stylesheet built using SASS and BEM-Style naming.
-* Syntax highlighting in code blocks.
-* Archive organized by tags and categories.
-* Automatic Sitemap generation.
-* RSS/Atom support out of the box
+- Content from Kontent headless CMS.
+- Beautiful typography inspired by matejlatin/Gutenberg.
+- Mobile-First approach in development.
+- Stylesheet built using SASS and BEM-Style naming.
+- Syntax highlighting in code blocks.
+- Archive organized by tags and categories.
+- Automatic Sitemap generation.
+- RSS/Atom support out of the box

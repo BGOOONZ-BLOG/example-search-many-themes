@@ -18,5 +18,5 @@ This theme is a Jekyll port of http://erosie.net/ with some modifications. It is
 
 ## Features
 
-* Lightweight
-* No JavaScript
+- Lightweight
+- No JavaScript

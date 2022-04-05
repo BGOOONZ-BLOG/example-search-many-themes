@@ -35,7 +35,7 @@ fields:
     name: css
     label: CSS
     items:
-      type: string      
+      type: string
   - type: list
     name: archetype
     label: Archetype
@@ -45,7 +45,7 @@ fields:
     name: services
     label: Services
     items:
-      type: string 
+      type: string
   - type: text
     name: description
     label: Description

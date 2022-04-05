@@ -24,19 +24,19 @@ stale: false
 
 ## Features
 
-* Blog with tagging and category options
-* Deeplinks
-* Native Image Lazy Loading
-* Customizable (see config)
-* Dark Mode (with UI controls for user preference setting)
-* Toggleable table of contents
-* Flexible image configuration
-* Logo alignment
-* Mobile support with configurable menu alignment
-* Syntax Highlighting
-* Rich code block functions
-* Math typing using MathJax
-* Auto TOC using tocbot
-* Search page
-* Contact form
-* Subscription form
+- Blog with tagging and category options
+- Deeplinks
+- Native Image Lazy Loading
+- Customizable (see config)
+- Dark Mode (with UI controls for user preference setting)
+- Toggleable table of contents
+- Flexible image configuration
+- Logo alignment
+- Mobile support with configurable menu alignment
+- Syntax Highlighting
+- Rich code block functions
+- Math typing using MathJax
+- Auto TOC using tocbot
+- Search page
+- Contact form
+- Subscription form
